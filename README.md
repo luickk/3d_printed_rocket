@@ -3,13 +3,12 @@
 
 This rocket was intended to start and land all by it's self, using standard rocket motors to start and it's wings to land. Unfortunately I wasn't able to proceed on the project because of the lack of licences which I would need to launch such a heavy rocket.
 
-![rocket main parts ](http://mrgrimod.de/FILES/rckt_parts.png)
+![complete rocket](http://mrgrimod.de/FILES/rckt_complete_2.png)
 
-![rocket scheme](http://mrgrimod.de/FILES/rckt_scheme.png)
+![rocket main parts ](http://mrgrimod.de/FILES/rckt_parts_2.png)
 
-![complete rocket](http://mrgrimod.de/FILES/rckt_complete.png)
+![rocket scheme](http://mrgrimod.de/FILES/rckt_scheme_2.png)
 
-![rocket simulation](http://mrgrimod.de/FILES/rckt_sim.png)
 
 # Data
 

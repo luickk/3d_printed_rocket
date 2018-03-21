@@ -30,19 +30,29 @@ rocket stats
 
 ----------
 
-> **motor**:               D9, 20 Ns
-> **diameter**:          5 cm
-> **inner diameter**: 4.7 cm
-> **flight height**:     180 m
-> **weight**: 512 g
+> **motor**:               D9, 20 Ns <br>
+> **diameter**:          5 cm <br>
+> **inner diameter**: 4.7 cm <br>
+> **flight height**:     180 m <br>
+> **weight**: 512 g <br>
 > **parachute size**: 100 cm with 3.5 mps
-
-
-# Idea
-
-The goal is to start and land a rocket while not using a parachute ejection system to land the rocket. To acomplish that, the rocket has wings mounted to it s center of gravity. When it launches and reaches its point of max altitude it will eject the nosecone to lower the point of gravity. Then it will fall with the center of the gravity (wings) downwards so the rocket can be brought in the horizontal by tilting the rocket fins.
 
 # Files
 
 > .stl standard files used for 3D printing and 3D modeling <br>
 > .ork Files for the [rocket simulation program](http://openrocket.info/)
+
+# Idea
+
+The goal is to start and land a rocket while not using a parachute ejection system to land the rocket. To acomplish that, the rocket has wings mounted to it s center of gravity. When it launches and reaches its point of max altitude it will eject the nosecone to lower the point of gravity. Then it will fall with the center of the gravity (wings) downwards so the rocket can be brought in the horizontal by tilting the rocket fins.
+
+
+# Landing
+
+For the landing the nosecone is blown out, in order to change the center of gravity further down.
+
+![rocket without nosecone](http://mrgrimod.de/FILES/5.png)
+
+In the next two seconds the rocket will accelerate to 10 m/s. Then the rocket will start to stabilize its self on the yaw axis and to tilt its self on the roll axis to finally put the rocket in the right position and generate lift to slow down the rocket and land.
+
+![start+landing](http://mrgrimod.de/FILES/6.jpg)

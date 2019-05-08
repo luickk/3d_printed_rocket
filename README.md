@@ -3,14 +3,6 @@
 
 This rocket is built to start and land all by itself. The landing manouver is done by tilting the fins on the upper part of the rocket, in order to slowly tilt the rocket till it's horizontal to decrease the fall speed .
 
-![complete rocket](http://mrgrimod.de/FILES/1.png)
-
-![rocket main parts ](http://mrgrimod.de/FILES/2.png)
-
-![rocket scheme](http://mrgrimod.de/FILES/3.png)
-
-![rocket sim](http://mrgrimod.de/FILES/4.png)
-
 # Data
 
 
